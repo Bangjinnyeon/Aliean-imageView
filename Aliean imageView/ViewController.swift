@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-    var count = 1 //사진 인엑스 값 증가
+    var count = 1 //사진 인엑스 값 증가 gggg
     var direction = 1 //direction이 1이면 증가 0이면 감소 구분
     @IBOutlet weak var myimageview: UIImageView!
     @IBOutlet weak var index: UILabel!
